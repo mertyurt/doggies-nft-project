@@ -1,1 +1,2 @@
-# doggies-nft-project
+# doggies-nft-project  
+learning project
